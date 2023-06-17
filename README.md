@@ -47,6 +47,9 @@ If you find this repo useful for your research, please consider citing the paper
 }
 ```
 
+## Our follow-up work
+[Text-to-image synthesis with self-supervised bi-stage generative adversarial network](https://doi.org/10.1016/j.patrec.2023.03.023) [[code]](https://github.com/Jityan/SSBiGAN)
+
 ## Contacts
 For any questions, please contact: <br/>
 
@@ -58,3 +61,6 @@ Jit Yan Lim (lim.jityan@mmu.edu.my)
 - [StackGAN](https://github.com/hanzhanggit/StackGAN)
 - [HDGAN](https://github.com/ypxie/HDGan)
 - [SS-GAN](https://github.com/vandit15/Self-Supervised-Gans-Pytorch)
+
+## License
+This code is released under the MIT License (refer to the LICENSE file for details).
