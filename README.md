@@ -53,8 +53,8 @@ If you find this repo useful for your research, please consider citing the paper
 ## Contacts
 For any questions, please contact: <br/>
 
-Yong Xuan Tan (1141124379@student.mmu.edu.my) <br/>
-Jit Yan Lim (lim.jityan@mmu.edu.my)
+Yong Xuan Tan (yongxuan95@gmail.com) <br/>
+Jit Yan Lim (jityan95@gmail.com)
 
 ## Acknowlegements
 - [Text-to-Image Synthesis](https://github.com/aelnouby/Text-to-Image-Synthesis)
